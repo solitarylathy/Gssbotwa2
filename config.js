@@ -14,18 +14,18 @@ global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
 global.author = "LATHIEEY";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
-global.typemenu = "v5"
+global.typemenu = "v4"
 global.menuType = "2"
-global.autoswview = true
+global.autoswview = false
 global.autoread = true
-global.available = false
-global.autoTyping = false
-global.autoRecord = false
-global.autoreact = false
-global.onlygroup = false
-global.onlypc = false
+global.available = true
+global.autoTyping = true
+global.autoRecord = true
+global.autoreact = true
+global.onlygroup = true
+global.onlypc = true
 global.welcome = true
-global.autoBlock = true
+global.autoBlock = false
  
 /*REPLY MESSAGE*/
 global.mess = {
