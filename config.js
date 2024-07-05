@@ -29,12 +29,12 @@ global.autoBlock = true
  
 /*REPLY MESSAGE*/
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
+    banned: '`You are *Banned* fron using commands!🐤`',
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
-    admin: '`This feature is only for group admins`',
+    admin: '`This feature is only for group admins🐤`',
     botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    owner: '`You are not my owner🐤🦦`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
